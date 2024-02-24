@@ -1,0 +1,113 @@
+{
+  "Users": [
+    {
+      "id": "uuid",
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "birthdate": "1990-01-01",
+      "state": "California",
+      "country": "USA"
+    },
+    {
+      "fullName": "douglas",
+      "email": "dpoeta75@gmail.com",
+      "password": "ddddd",
+      "birthdate": "2024-02-02",
+      "state": "RS",
+      "country": "brasil",
+      "id": "_LJ2glM"
+    },
+    {
+      "fullName": "douglas",
+      "email": "dodo-poeta@gmail.com",
+      "password": "ppppp",
+      "birthdate": "2024-03-07",
+      "state": "RS",
+      "country": "brasil",
+      "id": "t-mP07U"
+    }
+  ],
+  "Games": [
+    {
+      "id": 1,
+      "title": "Fifa 24",
+      "description": "Jogo de futebol, EA sports"
+    },
+    {
+      "id": 2,
+      "title": "The Witcher 4",
+      "description": "RPG de ação e aventura"
+    },
+    {
+      "id": 3,
+      "title": "Call of Duty: Modern Warfare",
+      "description": "Jogo de tiro em primeira pessoa"
+    },
+    {
+      "id": 4,
+      "title": "Red Dead Redemption 2",
+      "description": "Jogo de ação e aventura no Velho Oeste"
+    },
+    {
+      "id": 5,
+      "title": "Cyberpunk 2077",
+      "description": "RPG de ação em mundo aberto futurista"
+    },
+    {
+      "id": 6,
+      "title": "Assassin's Creed Valhalla",
+      "description": "RPG de ação ambientado na Era Viking"
+    },
+    {
+      "id": 7,
+      "title": "God of War",
+      "description": "Jogo de ação e aventura protagonizado por Kratos"
+    },
+    {
+      "id": 8,
+      "title": "The Last of Us Part II",
+      "description": "Jogo de sobrevivência e ação em um mundo pós-apocalíptico"
+    },
+    {
+      "id": 9,
+      "title": "Final Fantasy VII Remake",
+      "description": "Recriação do clássico RPG de ação"
+    },
+    {
+      "id": 10,
+      "title": "Spider-Man: Miles Morales",
+      "description": "Jogo de ação e aventura com o super-herói Miles Morales"
+    },
+    {
+      "id": 11,
+      "title": "Horizon Zero Dawn",
+      "description": "RPG de ação em mundo aberto protagonizado por Aloy"
+    },
+    {
+      "id": 12,
+      "title": "Minecraft",
+      "description": "Jogo de construção e exploração em um mundo de blocos"
+    },
+    {
+      "id": 13,
+      "title": "Fortnite",
+      "description": "Jogo de batalha real com elementos de construção"
+    },
+    {
+      "id": 14,
+      "title": "League of Legends",
+      "description": "Jogo online de estratégia em equipes"
+    },
+    {
+      "id": 15,
+      "title": "Valorant",
+      "description": "Jogo de tiro tático em primeira pessoa"
+    },
+    {
+      "id": 16,
+      "title": "Among Us",
+      "description": "Jogo multiplayer online de dedução e traição"
+    }
+  ]
+}

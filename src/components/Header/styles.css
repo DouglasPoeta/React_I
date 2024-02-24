@@ -1,0 +1,42 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #0b62be; /* Azul principal */
+  color: #fff; /* Texto branco */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave */
+  width: 100%; /* Define a largura total da tela */
+  position: fixed; /* Mantém a barra de navegação fixa na parte superior */
+  top: 0; /* Alinha a barra de navegação ao topo */
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold; /* Adiciona negrito à logo */
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 30px;
+}
+
+.nav-links li a {
+  color: #fff; /* Texto branco */
+  text-decoration: none;
+  padding: 8px 12px; /* Adiciona um espaçamento interno */
+  border-radius: 5px; /* Adiciona bordas arredondadas */
+  transition: background-color 0.3s ease; /* Adiciona transição suave */
+}
+
+.nav-links li a:hover {
+  background-color: #0056b3; /* Azul mais escuro ao passar o mouse */
+}
